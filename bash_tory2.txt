@@ -1,0 +1,338 @@
+ls
+
+adduser cdmuser
+
+su cdmuser
+
+yum -update
+yum --update
+
+yum update
+
+yum install wget
+
+yum install grails
+
+yum install tomcat
+
+yum install apache
+
+yum install apache2
+
+yast
+
+yum
+
+yum version
+
+top
+
+df
+
+yum install httpd*
+
+yum install tomcat*
+
+yum install grails*
+
+yum install jquery*
+
+yum install php*
+
+ifconfig
+
+netstat -nla.
+
+netstat -nla
+
+netstat -nl
+
+yum install 
+2mysql*
+su mysql
+uptime
+shutdown -h now
+whois www.changingpossibilities-us.com
+ls
+ls /home
+su cdmuser
+man passwd
+passwd cdmuser
+adduser tech
+passwd tech
+netstat -l
+set
+ifconfig
+cd /home/tech
+ls
+yum install java*
+ls
+jre-6u25-linux-x64-rpm.bin
+chmod +x jre-6u25-linux-x64-rpm.bin
+jre-6u25-linux-x64-rpm.bin
+./jre-6u25-linux-x64-rpm.bin
+ls
+MAN SET
+man set
+ls grails-2.2.1
+ls -l grails-2.2.1 
+cd grails-2.2.1 
+vi INSTALL
+du
+df
+man pathmunge
+man path
+whereis custompath.sh
+ls
+ls -l
+pwd
+cd doc
+ls
+grails -version
+cd ..
+ls bin
+ls -l bin
+bin/startGrails
+chmod +x bin/startGrails
+ls -l bin
+chmod +x bin/startGrails
+chmod +x bin/grails
+chmod +x bin/grail-debug
+chmod +x bin/grails-debug
+cd bin
+grails -version
+ls
+./grails -version
+set GRAILS_HOME /home/tech/grails-2.2.1/bin/
+export PATH=$PATH:/home/tech/grails-2.2.1/bin/
+set
+./grails -version
+cd ..
+cd bin
+ls
+cd /bin
+ls
+cd usr
+ls
+whereis java*
+cd ..
+ls
+ls /usr
+ls /usr/java
+ls /usr/java/jre1.6.0_25
+ls /usr/java/jre1.6.0_25/bin
+set JAVA_HOME /usr/java/jre1.6.0_25/bin/
+PATH=$PATH:/usr/java/jre1.6.0_25/bin/
+./grails -version
+set
+export PATH=$PATH:/usr/java/jre1.6.0_25/bin/
+./grails -version
+set
+cd /etc
+ls
+cat init.d
+ls init.d
+cd ..
+ls
+cd etc
+ls
+ls profile.d
+ls -l profile.d
+car profile
+cat profile
+vi profile
+ls
+set GRAILS_HOME /home/tech/grails-2.2.1/bin
+export PATH=$PATH:/home/tech/grails-2.2.1/bin
+PATH=$PATH:/usr/java/jre1.6.0_25/bin
+set JAVA_HOME /usr/java/jre1.6.0_25/bin
+export PATH=$PATH:/usr/java/jre1.6.0_25/bin
+./grails -version
+reboot
+set GRAILS_HOME /home/tech/grails-2.2.1/bin
+export PATH=$PATH:/home/tech/grails-2.2.1/bin
+set JAVA_HOME /usr/java/jre1.6.0_25/bin
+export PATH=$PATH:/usr/java/jre1.6.0_25/bin
+./grails -version
+grails -version
+set JAVA_HOME=/usr/java/jre1.6.0_25/bin
+set GRAILS_HOME=/home/tech/grails-2.2.1/bin
+set
+GRAILS_HOME=/home/tech/grails-2.2.1/bin
+set
+export JAVA_HOME=/usr/java/
+export GRAILS_HOME=/home/tech/grails-2.2.1/bin
+set
+./grails -version
+cd /home/tech/grails-2.2.1/bin
+ls
+cd grails
+grails
+set
+grails
+cd /usr/java/jre1.6.0_25/bin
+ls
+java
+set
+vi /etc/profile
+ls
+cd ..
+cd /
+ls
+grails
+export JAVA_HOME=/usr/java/jre1.6.0_25/bin
+export PATH=$PATH:/usr/java/jre1.6.0_25/bin
+set
+grails
+reboot
+scp -r tech@173.203.96.202:/home/tech/* /web/
+cd /var/www
+ls
+ln  -s /home/tech/web web
+ls -l
+
+lynx localhost/web
+/etc/init.d/httpd restart
+lynx localhost/web
+lynx localhost/web/index.gsp
+grails
+cd /etc/
+ls
+ls httpd
+ls httpd/conf
+grails
+lynx http://www.eclipse.org/downloads/
+lynx http://www.eclipse.org/downloads/?osType=linux
+ls
+cd ~
+ls
+cd /home/tech
+lynx http://www.eclipse.org/downloads/?osType=linux
+ls
+grails
+set
+java -version
+grails
+grails -version
+cd /var/log
+ls
+vi yum.log
+cat yum.log
+cat yum.log > /home/tech/installed.txt
+cd ~
+cd /home/tech
+ls
+vi installed.txt
+ifconfig
+uname
+
+man uname
+
+uname -l
+
+man uname
+
+uname -a
+
+man uname
+
+uname -o
+
+cd /etc/sshd
+
+cd /etc/ssh
+ls
+cat ssh_config
+vi ssh_config
+ls
+cat sshd_config
+vi sshd_config
+exit
+export GRAILS_HOME=/home/tech/grails-2.2.1/bin
+export JAVA_HOME=/usr/java/jre1.6.0_25/bin
+export PATH=$PATH:/usr/java/jre1.6.0_25/bin:/home/tech/grails-2.2.1/bin
+set
+grails
+/usr/java/jre1.6.0_25/bin/java
+/usr/java/jre1.6.0_25/bin/java -version
+java
+grails
+JAVA_HOME
+set JAVA_HOME
+set
+ls
+ls grails-2.2.1
+ls grails-2.2.1/bin
+cd /
+ls
+cd bin
+ls
+ls -l
+cd /etc
+ls
+ls init
+cd init.d
+ls
+ls -l
+cat functions
+vi functions
+ifconfig
+netstat -l
+yum install apache*
+yum install apache-tomcat*
+/init.d/apache2 start
+/etc/init.d/apache2 start
+/etc/init.d/apache start
+ls /etc/init.d/
+ls /etc/init.d/tomcat6 start
+/etc/init.d/tomcat6 start
+netstat
+netstat -l
+yum install apache2*
+ls /etc/init.d/
+/etc/init.d/httpd start
+ifconfig
+netstat -l
+netstat -p
+netstat -l
+netstat -ln
+yum install lynx
+lynx localhost
+ls /usr/lib
+df
+yum install openssl
+yum install tls
+yum install tls*
+yum update
+ls
+cd /home/tech
+su tech
+exit
+export PATH=/usr/java/jre1.6.0_25/bin:/home/tech/grails-2.2.1/bin:$PATH
+grails
+set
+export JAVA_HOME=/usr/java/jre1.6.0_25/bin
+export GRAILS_HOME=/home/tech/grails-2.2.1/bin
+set
+grails
+export JAVA_HOME=/usr/java/jre1.6.0_25/
+export PATH=/usr/java/jre1.6.0_25/:/home/tech/grails-2.2.1/bin:$PATH
+grails
+ls
+cd grails-2.2.1
+ls
+cd bin
+ls
+ls lib
+ls ../lib
+ls
+mkdir lib
+cd lib
+cp ../../lib/* .
+cp -r ../../lib/* .
+
+ls
+
+grails
+
+exit
